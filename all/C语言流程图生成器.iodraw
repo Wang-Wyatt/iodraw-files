@@ -76,6 +76,11 @@
             <mxPoint x="-670" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9Ao_FukiBpvxmchR7fJV-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9Ao_FukiBpvxmchR7fJV-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-369.83333333333303" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="9Ao_FukiBpvxmchR7fJV-30" value="离焦MTF" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="1">
           <mxGeometry x="-490" y="450" width="120" height="80" as="geometry" />
         </mxCell>
