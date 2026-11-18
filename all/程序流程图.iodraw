@@ -227,7 +227,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WBhCDYy86ym_8xtTKtrs-54" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;exitX=0.125;exitY=0.049;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WBhCDYy86ym_8xtTKtrs-4" target="WBhCDYy86ym_8xtTKtrs-20">
+        <mxCell id="WBhCDYy86ym_8xtTKtrs-54" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="WBhCDYy86ym_8xtTKtrs-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3130" y="-543" />
@@ -334,6 +334,12 @@
             <Array as="points">
               <mxPoint x="5986" y="118" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WBhCDYy86ym_8xtTKtrs-71" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3030" y="-620" as="sourcePoint" />
+            <mxPoint x="3080" y="-670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
