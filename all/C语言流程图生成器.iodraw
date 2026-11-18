@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="-eeF4dPnX65M_ghFCyeH" name="Page-1">
-    <mxGraphModel dx="2432" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2192" dy="268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="-840" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9Ao_FukiBpvxmchR7fJV-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-434" y="242" width="120" height="84" as="geometry" />
+          <mxGeometry x="-654.99" y="320" width="120" height="84" as="geometry" />
         </mxCell>
         <mxCell id="9Ao_FukiBpvxmchR7fJV-12" value="相位DOE置于瞳面位置" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="9Ao_FukiBpvxmchR7fJV-14">
           <mxGeometry width="120" height="80" as="geometry" />
