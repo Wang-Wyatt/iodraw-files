@@ -76,8 +76,8 @@
             <mxPoint x="-670" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ao_FukiBpvxmchR7fJV-30" value="优化至当前&lt;br&gt;参数要求" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-654.99" y="460" width="120" height="80" as="geometry" />
+        <mxCell id="9Ao_FukiBpvxmchR7fJV-30" value="获取离焦MTF" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="450" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
