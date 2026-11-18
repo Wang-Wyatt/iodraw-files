@@ -13,7 +13,7 @@
         <mxCell id="WBhCDYy86ym_8xtTKtrs-3" value="Ⅱ 波前编码型 WFC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2229" y="27" width="197" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="WBhCDYy86ym_8xtTKtrs-4" value="非衍射光束与轴向焦域构建型" style="whiteSpace=wrap;strokeWidth=2;fontSize=40;" vertex="1" parent="1">
+        <mxCell id="WBhCDYy86ym_8xtTKtrs-4" value="非衍射光束与轴向焦域构建型" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="1">
           <mxGeometry x="3251" y="-670" width="252" height="84" as="geometry" />
         </mxCell>
         <mxCell id="WBhCDYy86ym_8xtTKtrs-5" value="Ⅳ 瞳面分区与能量复用型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
