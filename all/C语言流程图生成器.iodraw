@@ -19,9 +19,6 @@
             <mxPoint x="-440" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9Ao_FukiBpvxmchR7fJV-1" value="构建平行光入射DOE模型" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-840" y="240" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="9Ao_FukiBpvxmchR7fJV-5" value="构建离焦相位函数&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="1">
           <mxGeometry x="-640" y="240" width="120" height="80" as="geometry" />
         </mxCell>
@@ -30,6 +27,12 @@
         </mxCell>
         <mxCell id="9Ao_FukiBpvxmchR7fJV-6" value="循环结束" style="rhombus;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Garamond;fontSize=19;align=center;" vertex="1" parent="1">
           <mxGeometry x="-50" y="310" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ao_FukiBpvxmchR7fJV-9" value="构建平行光入射DOE模型" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9Ao_FukiBpvxmchR7fJV-10" value="构建平行光入射DOE模型" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=19;fontColor=#333333;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="240" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
