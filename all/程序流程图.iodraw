@@ -68,10 +68,10 @@
           <mxGeometry x="2990" y="-566" width="126" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WBhCDYy86ym_8xtTKtrs-22" value="Axicon / 光学针" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3427" y="-518" width="174" height="48" as="geometry" />
+          <mxGeometry x="3000" y="-470" width="174" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WBhCDYy86ym_8xtTKtrs-23" value="轴向延展 PSF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3651" y="-518" width="154" height="48" as="geometry" />
+          <mxGeometry x="3003.5" y="-380" width="154" height="48" as="geometry" />
         </mxCell>
         <mxCell id="WBhCDYy86ym_8xtTKtrs-24" value="环形瞳面分区" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3644" y="143" width="156" height="48" as="geometry" />
